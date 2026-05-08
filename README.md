@@ -1,4 +1,4 @@
-# nlp-projects
+# Natural Language Processing Projects
 
 Natural Language Processing with pre-trained models.
 
